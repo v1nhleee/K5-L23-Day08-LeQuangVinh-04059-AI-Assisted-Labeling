@@ -9,11 +9,11 @@
 - Máy: Window
 - CVAT (Docker): 2.
 
-## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
+## Kết quả tóm tắt (điền cuối bài; số lấy từ submission/qc/*, kèm mẫu số)
 
-- Máy: accepted / edited / deleted: <<... / ... / ... (mẫu số: ... box máy)>>; added: <<... (mẫu số: ... đối tượng)>>
-- So với gold: precision / recall của **máy** <<... / ...>>
-- Bắt bẫy: <<.../12 = ...%>>
-- Thời gian: gán tay <<... phút/ảnh>>; duyệt có pre-label <<... phút/ảnh>>
-- Lỗi QC: <<...% theo ảnh (.../...)>>, <<...% theo đối tượng (.../...)>>
-- **Quyết định:** <<Release / Hold / Rework>> — lý do một dòng: <<...>>
+- **Máy**: accepted / edited / deleted: **317 / 5 / 6** (mẫu số: **328** box máy)[cite: 4]; added: **118** (mẫu số: **440** đối tượng sau duyệt)[cite: 4]
+- **So với gold**: precision / recall của máy **78.6% (33/42) / 66.0% (33/50)**[cite: 4]
+- **Bắt bẫy**: **5/12 = 41.7%**[cite: 4]
+- **Thời gian**: gán tay **5.0 phút/ảnh** (20 phút / 4 ảnh); duyệt có pre-label **1.25 phút/ảnh** (30 phút / 24 ảnh)
+- **Lỗi QC**: **60.0% theo ảnh (3/5 ảnh)**, **3.6% theo đối tượng (3/83 đối tượng)**[cite: 5]
+- **Quyết định**: **Hold** — lý do một dòng: Tỷ lệ bắt bẫy chỉ đạt 41.7% (thấp hơn chuẩn 80%) và lỗi QC theo ảnh còn cao (3/5 ảnh), cần tạm dừng để rà soát lại checklist trước khi release[cite: 4, 6].
