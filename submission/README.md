@@ -1,4 +1,4 @@
-# Thư mục nộp bài
+# Thư mục nộp bài Day 08 Lab — 2A202604059 - Lê Quang Vinh
 
 Xem cấu trúc bắt buộc ở [../SUBMISSION.md](../SUBMISSION.md). Các file bạn **tự điền** (khuôn có sẵn ở đây):
 
