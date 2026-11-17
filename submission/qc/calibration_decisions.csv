@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_013|img_004,loi_may,YOLO26 goi tuk-tuk la car,luon gan three_wheeler,muc 2: xe ba banh co mui van la three_wheeler,v1.1
+CAL-02,img_021,cau_hoi_mo,Phan biet xe may cho hang cong kenh voi xe ba banh,dua vao so luong banh xe va khung xe,muc 3: xe co 3 banh hoac co khung gac 3 banh xep vao three_wheeler,v1.1
+CAL-03,img_008|img_029,bay_lot,Bo sot xe may o goc khuat va ve sang,quet ky goc anh va vung ria truoc khi bat pre-label,muc 4: kiem tra ky cac vung bien va goc khuat,v1.1
