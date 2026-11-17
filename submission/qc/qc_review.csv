@@ -1,6 +1,6 @@
 image,object_id,error_type,reviewer,note
-img_003.jpg,,khong,vinh,Anh sach, khong co loi sai ro rang
-img_006.jpg,,bo_sot,vinh,Bo sot 1 xe may o goc khuat phia ben phai
-img_014.jpg,,sai_lop,vinh,Nhan dien nham xe ba banh thanh o to (car)
-img_031.jpg,,khong,vinh,Anh dat tieu chuẩn, cac box khop thuc te
-img_035.jpg,,thua,vinh,Thua 1 box nhieu o vung nen phia sau
+img_003.jpg,khong,vinh,Anh sach, khong co loi sai ro rang
+img_006.jpg,bo_sot,vinh,Bo sot 1 xe may o goc khuat phia ben phai
+img_014.jpg,sai_lop,vinh,Nhan dien nham xe ba banh thanh o to (car)
+img_031.jpg,khong,vinh,Anh dat tieu chuẩn, cac box khop thuc te
+img_035.jpg,thua,vinh,Thua 1 box nhieu o vung nen phia sau
